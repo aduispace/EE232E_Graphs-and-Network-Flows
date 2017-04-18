@@ -1,3 +1,4 @@
+
 ### Problem2(a)
 ## plot degree distribution
 library("igraph")
